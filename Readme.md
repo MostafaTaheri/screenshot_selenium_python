@@ -33,7 +33,6 @@ browser.get(“https://www.python.org/”)
 </br>
 
 ## Requirements
-#
 selenium
 
 PyYAML
@@ -43,7 +42,6 @@ lazy-load
 </br>
 
 ## Capturing Python Selenium Screenshots Of A Particular Element
-#
 We now demonstrate how we can use the screen_by_xpath() method to capture any element on the page.
 
 </br>
@@ -56,7 +54,7 @@ from datetime import datetime
 if __name__ == '__main__':
 
     screen = ScreenShot()
-    
+
     image_name = "{}.png".format(
         datetime.now().strftime('%Y-%m-%d%H-%M-%S'))
 
@@ -68,8 +66,8 @@ if __name__ == '__main__':
 
 <br/>
 
+
 ## Capturing full page screenshots
-#
 We can use the full_screenshot() method to capture ful page screenshots.
 
 </br>
