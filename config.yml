@@ -1,0 +1,3 @@
+driver:
+  name: 'chrome'
+  location: your driver path
