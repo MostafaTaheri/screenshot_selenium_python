@@ -16,7 +16,6 @@ You can choose any browser of your choice, and you can download the drivers from
 
 </br>
 
-#
 ## Code Walkthrough
 Let’s understand what we are doing here.
 
